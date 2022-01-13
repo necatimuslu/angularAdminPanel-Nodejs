@@ -1,0 +1,13 @@
+alias ng="/Users/necati/.npm-global/bin/ng"
+
+expo için 
+echo $PATH
+
+export PATH=$PATH:~/.npm-global/bin
+
+
+/*
+brew 
+
+export PATH=/opt/homebrew/bin:$PATH
+ */
